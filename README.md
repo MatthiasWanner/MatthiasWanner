@@ -22,7 +22,7 @@ I am a JavaScript/TypeScript Developer <img src="https://media.giphy.com/media/W
 
 - :memo: I love testing new techs and learning new languages.
 
-- :zap: In my free time, I code personal projects to improve my knowledge and I and read tech articles.
+- :zap: In my free time, I code personal projects to improve my knowledge and I read tech articles.
 
 ---
 
